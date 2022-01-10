@@ -1,4 +1,4 @@
-# unit-testing-in-2022
+# Getting Started With Unit Testing Software in 2022
 
 Companion repository for [Getting Started With Unit Testing Software in 2022](https://betterprogramming.pub/unit-testing-software-in-2022-b3ac00962c65#6806-fac6331a13e8).
 
